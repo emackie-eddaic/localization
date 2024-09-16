@@ -44,7 +44,7 @@ export default [
 
       parserOptions: {
         project: 'tsconfig.json',
-        tsconfigRootDir: '/Users/ericmackie/Documents/eddaic/localization',
+        tsconfigRootDir: '.',
       },
     },
 
