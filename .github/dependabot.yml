@@ -22,6 +22,10 @@ updates:
       - 'emackie-eddaic'
     reviewers:
       - 'emackie-eddaic'
+    commit-message:
+      prefix: 'feat'
+      prefix-development: 'chore'
+      include: 'scope'
     ignore:
       # For all packages, ignore all patch and major updates
       - dependency-name: '*'
