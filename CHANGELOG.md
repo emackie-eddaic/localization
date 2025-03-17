@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/emackie-eddaic/localization/compare/v1.1.1...v1.2.0) (2025-03-17)
+
+
+### Features
+
+* **deps:** bump i18n-iso-countries from 7.13.0 to 7.14.0 ([#29](https://github.com/emackie-eddaic/localization/issues/29)) ([90299b4](https://github.com/emackie-eddaic/localization/commit/90299b43c4368f4c5e6a77d358da732a05335eb8))
+
 ## [1.1.1](https://github.com/emackie-eddaic/localization/compare/v1.1.0...v1.1.1) (2024-09-17)
 
 
